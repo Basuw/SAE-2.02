@@ -1,7 +1,11 @@
-# SAE_2.02
+# SAE_2.02 - Algorithmic exploration  of a problem
 
-## test
+1st Year project Of BUT (Aubiere - UCA)
 
-SAE 2.02
+## About the project :
 
-heh
+- C++ project
+- developped by group of 3 students
+- 20hours duration
+
+**-> Completly functional project**
