@@ -9,3 +9,9 @@
 - 20hours duration
 
 **-> Completly functional project**
+
+### Authors
+
+- Astolfi Vincent
+- Hodin Dorian
+- Bastien Jacquelin
